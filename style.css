@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
+}
+
+h1, h2{
+    background-color: black;
+    color: red;
+    text-align: center;
+    border-radius: 10px;
+    font-family: MV BOLI;
+}
+
+p, ul {
+    color: grey;
+}
+
+
+
+
+
+footer p{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 10px;
+    font-family: MV BOLI;
+}
+
+footer a{
+    color: rgb(0, 0, 0);
+}
+
+.battom {
+    background-color: rgb(0, 0, 0);
+    color: rgb(250, 0, 0);
+    border-radius: 10px;
+    margin: 30px 30px;
+    padding: 5px;
+    text-decoration: none;
+    font-family: lucida console;
+    text-align: center;
+}
+
+.fixed{
+    position: fixed;
+    width: 50px;
+    height: 40px;
+    text-align: center;
+}
+
+.mainimg{
+    height: 200px;
+    width: 200px;
+
+}

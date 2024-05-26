@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(rgb(0, 68, 255), rgb(198, 219, 7));
+}
+
+h1 {
+    color: rgb(22, 111, 244);
+    text-align: center;
+    background-color: rgb(247, 255, 22);
+    border-radius: 10px;
+    font-family: MV BOLI;
+}
+a {
+    color: rgb(0, 0, 0);
+}
+p{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-family: AMAZE;
+    }
+
+header {
+        margin: 30px 30px;
+    }
+
+footer {
+    color: rgb(191, 255, 0);
+    background-color: rgb(76, 22, 255);
+    border-radius: 10px;
+}
+
+footer p{
+    color: yellow;
+    font-size: 20px;
+}
+
+footer a{
+    color: yellow;
+}
+
+.battom {
+    background-color: rgb(225, 255, 0);
+    color: rgb(25, 0, 250);
+    border-radius: 10px;
+    margin: 30px 30px;
+    padding: 5px;
+    text-decoration: none;
+    font-family: lucida console;
+    text-align: center;
+}
+
+.fixed{
+    position: fixed;
+    width: 50px;
+    height: 40px;
+    text-align: center;
+}
+
+
+    
