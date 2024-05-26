@@ -10,6 +10,12 @@ let logo1 = anime({
         
         rotate: 360,
       },
+      {
+        scale: 1.2,
+      },
+      {
+        scale: 1,
+      }
     ],
     duration: 2000,
     easing: "linear",
